@@ -16,7 +16,6 @@ contourpy==1.2.1
 cycler==0.12.1
 decorator==5.1.1
 distro==1.9.0
-docx==0.2.4
 executing==2.0.1
 filelock==3.14.0
 fonttools==4.53.0

@@ -63,7 +63,7 @@ def main():
         st.session_state.responses = responses
         st.session_state.chat = chat
 
-    user_input = st.text_input("Enter your Query:", key="user_query")
+    user_input = st.text_input("Ingresa tu consulta:", key="user_query")
     
     if st.button("Send", key="send_button"):
         if user_input:
